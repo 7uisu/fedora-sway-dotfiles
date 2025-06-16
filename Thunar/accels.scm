@@ -4,6 +4,7 @@
 ; (gtk_accel_path "<Actions>/ThunarStandardView/sort-by-type" "")
 ; (gtk_accel_path "<Actions>/ThunarStatusBar/toggle-last-modified" "")
 ; (gtk_accel_path "<Actions>/Thunarwindow/menu" "")
+; (gtk_accel_path "<Actions>/ThunarBookmarks/4fc596257dcafb81469e24d7c99edede" "")
 ; (gtk_accel_path "<Actions>/ThunarActionManager/cut" "<Primary>x")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/sort-by-size" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/file-menu" "")
